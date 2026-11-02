@@ -1,0 +1,2 @@
+# lovemacs
+Emacs, with love.
